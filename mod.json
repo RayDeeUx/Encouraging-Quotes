@@ -2,9 +2,8 @@
 	"geode": "3.8.1",
 	"gd": {
 		"win": "2.206",
-		"android": "2.206",
 		"mac": "2.206",
-		"ios": "2.206"
+		"android": "2.206"
 	},
 	"id": "mobmastermind.encouraging-quotes",
 	"name": "Encouraging Quotes",
