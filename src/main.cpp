@@ -1,11 +1,8 @@
-#include <Geode/Geode.hpp>
+#include <Geode/modify/PauseLayer.hpp>
+#include <Geode/modify/MenuLayer.hpp>
 #include <vector>
 #include <string>
 #include <random>
-#include <Geode/modify/PauseLayer.hpp>
-#include <Geode/modify/EditorPauseLayer.hpp>
-#include "cocos2d.h"
-#include <Geode/modify/MenuLayer.hpp>
 
 using namespace geode::prelude;
 
